@@ -1,2 +1,2 @@
 # ssafyExercise
-FIFIUFUFUFCK
+연습해보자
